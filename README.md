@@ -54,5 +54,6 @@
 </p>
 <h2>✒️ Recent Posts</h2>
 
-<!-- MEDIUM:START --> 
+<!-- MEDIUM:START -->
+- [What to do when your web developer is unresponsive? — Digitalfuge](https://umernaeem217.medium.com/what-to-do-when-your-web-developer-is-unresponsive-digitalfuge-ba9f060181ca?source=rss-857ccec86b86------2)
 <!-- MEDIUM:END -->
